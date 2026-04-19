@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on expanding my programming skills, diving into python, C, and practical tech projects<br>I'm looking to collaborate on exciting student projects, fun mini apps, and coding practice groups - let's create something awesome together!<br>I'm looking for help with tackling advanced coding challenges and applying concepts in real-world scenarios. If you've got experience, I'd love to learn from you!<br>I'm currently learning to improve my English communication, master Python programming, and ace engineering subjects. Learning every day!<br>Ask me about getting started with programming, electronics basics, and effective study tips - I'm here to share what I know and help out!<br>Fun fact: I'm passionate about breaking down complex topics into simple, easy-to-understand examples for better learning.
+
+🔭I'm currently working on expanding my programming skills, diving into python, C, and practical tech projects<br>.
+🤝I'm looking to collaborate on exciting student projects, fun mini apps, and coding practice groups - let's create something awesome together!<br>
+🌱I'm looking for help with tackling advanced coding challenges and applying concepts in real-world scenarios. If you've got experience, I'd love to learn from you!<br>
+💬I'm currently learning to improve my English communication, master Python programming, and ace engineering subjects. Learning every day!<br>
+⚡Ask me about getting started with programming, electronics basics, and effective study tips - I'm here to share what I know and help out!<br>
+⚡Fun fact: I'm passionate about breaking down complex topics into simple, easy-to-understand examples for better learning.
 
 
 ## 🌐 Socials:
